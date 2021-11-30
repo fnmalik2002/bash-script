@@ -8,11 +8,15 @@
  This is a bash script to verify if Apple Computer is enrolled in DEP.
  
  There are two files. 
+ 
  The one with .sh extension is the actual script
+ 
  The one with .command extension is the same script but if you double click it then it will execute all its code line by line
  
  Make sure to run this script on a Mac before purchasing that Mac.
  
  Requirement:
+ 
  1- Run this script on a Mac running MacOS High Sierra or higher
+ 
  2- Make sure that Mac is connected to the internet before you run this script. It needs active internet connection to verify DEP status using Apple's own built-in terminal command.
