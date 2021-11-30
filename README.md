@@ -24,4 +24,4 @@
  
  ### Screenshot of bash script sample run on a computer that has a profile
  
- ![App GUI](https://github.com/fnmalik2002/Wifi-Signal-Live-Graph/blob/main/Resources/Screenshot1.png)
+ ![App GUI](https://github.com/fnmalik2002/bash-script/blob/main/images/bash_script.png)
