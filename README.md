@@ -20,3 +20,8 @@
  1- Run this script on a Mac running MacOS High Sierra or higher
  
  2- Make sure that Mac is connected to the internet before you run this script. It needs active internet connection to verify DEP status using Apple's own built-in terminal command.
+
+ 
+ ### Screenshot of bash script sample run on a computer that has a profile
+ 
+ ![App GUI](https://github.com/fnmalik2002/Wifi-Signal-Live-Graph/blob/main/Resources/Screenshot1.png)
